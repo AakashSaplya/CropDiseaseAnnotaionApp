@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419370509590",
+    "project_id": "smartagro-15def",
+    "storage_bucket": "smartagro-15def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419370509590:android:b5966575ea21f20f5a9c37",
+        "android_client_info": {
+          "package_name": "com.example.smartagro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgO3f5dFIRu0vOEGjjaAXk-_MAGbDfEEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
