@@ -27,6 +27,11 @@ example:  C:\newfolder\flutter Apps\CropDataAnnotationApp
 8. Run the main.dart file in vs code by run button or using terminal: flutter run. It will take a little bit longer to run the app on emulator. 
 10. Open other files from the CropDataAnnotationApp\lib\ to edit or create new dart files accordingly.
 
-# Snapshots 
-Here are some snapshots of the app: 
-
+# Snapshots of App 
+<img src="Image1.jpg" alt="First page" width="300" height="450" /> <img src="Image2.jpg" alt="LogIn" width="300" height="450" />
+<img src="Image3.jpg" alt="Image3" width="300" height="450" />
+<img src="Image4.jpg" alt="Image4" width="300" height="450" />
+<img src="Image5.jpg" alt="Image5" width="300" height="450" />
+<img src="Image6.jpg" alt="Image6" width="300" height="450" />
+<img src="Image7.jpg" alt="Image7" width="300" height="450" />
+<img src="Image8.jpg" alt="Image8" width="300" height="450" />
