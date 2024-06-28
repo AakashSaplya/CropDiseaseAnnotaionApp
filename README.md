@@ -40,3 +40,6 @@ example:  C:\newfolder\flutter Apps\CropDataAnnotationApp
 ## Before running the code
 To connect firebase and to avoid errors, upload google-services.json (from your firebase project) to android/app directory and ensure to make necessary changes in the android/build.gradle and android/app/build.gradle files. 
 For more information go to: https://firebase.google.com/docs/android/setup
+
+Also change the code in file lib/admin_notifi.dart 
+Change the Authorization key of firebase cloud messaging https://firebase.google.com/docs/cloud-messaging
