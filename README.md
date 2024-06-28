@@ -1,5 +1,5 @@
 # smartagro
-
+# Crop Diasease Annotation App
 A new Flutter project.
 
 ## Getting Started
