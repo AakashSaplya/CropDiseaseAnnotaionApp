@@ -25,7 +25,7 @@ class _SendNotifPageState extends State<SendNotifPage> {
         headers: <String, String>{
           'Content-Type': 'application/json',
           'Authorization':
-              'key=AAAAYaRuJRY:APA91bG8Xkkbns0AETeFTh9KzJQ0SW2_Pj5DqoMdrWNmMPCZpubV7Fht-qX1SNwBYc0eP1hfHHoitMKLahF0NNHVU0cLeEgSGdKTbFv6jy1HpUk2R4U7MY6YkETb6RsnSIxfmifiGzFf'
+              'key= go-to-the-firebase-cloud-messaging-for-the key'
         },
         body: jsonEncode(
           <String, dynamic>{
